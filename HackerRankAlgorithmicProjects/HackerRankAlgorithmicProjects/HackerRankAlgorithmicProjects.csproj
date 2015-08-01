@@ -45,6 +45,7 @@
     <Compile Include="BreadthFirstSearchShortestReach.cs" />
     <Compile Include="DijkstraShortestReach2.cs" />
     <Compile Include="Main.cs" />
+    <Compile Include="PrimsMSTSpecialSubtree.cs" />
     <Compile Include="PriorityQueue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

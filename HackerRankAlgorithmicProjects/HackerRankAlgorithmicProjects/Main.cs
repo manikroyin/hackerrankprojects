@@ -13,7 +13,8 @@ namespace HackerRankAlgorithmicProjects
             /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
             //AVeryBigSum(args);
             //BreadthFirstSearchShortestReach();
-            DijkstraShortestReach2Runner();
+            //DijkstraShortestReach2Runner();
+            PrimsMSTSpecialSubtreeRunner();
         }
     }
 }
